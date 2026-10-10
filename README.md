@@ -6,7 +6,7 @@ An online ordering application for **Bros Coffee** shop chain, enabling customer
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 ### Objectives
 
@@ -16,7 +16,7 @@ An online ordering application for **Bros Coffee** shop chain, enabling customer
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 | Component                 | Technology                                                                    |
 | ------------------------- | ----------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ An online ordering application for **Bros Coffee** shop chain, enabling customer
 
 ---
 
-## 🧱 System Architecture
+## System Architecture
 
 ### 1. Admin (Web)
 
@@ -50,7 +50,7 @@ The customer application supports:
 
 ---
 
-## ⚙️ Project Structure
+## Project Structure
 
 ```plaintext
 BrosCoffeeShop/
@@ -63,7 +63,7 @@ BrosCoffeeShop/
 
 ---
 
-## 👨‍💻 Development Team
+## Development Team
 
 - **Backend Developer:** Phan Minh Hiếu – Firebase integration & API logic
 - **Frontend Developer (Admin Web):** Nguyễn Hà Gia Huy – Web interface & dashboard
