@@ -71,7 +71,7 @@ BrosCoffeeShop/
 
 ---
 
-## 📜 License
+## License
 
 This project is developed for educational and internal purposes.
 
